@@ -286,7 +286,7 @@ p > img {
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin: 10px auto;
   }
 
   img {
